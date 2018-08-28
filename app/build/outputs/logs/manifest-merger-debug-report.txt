@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.databinding:adapters:3.1.4] /home/ukie/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/0abc3586ff7b555d8f7992e2114b598c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] /home/ukie/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/adb494fedb96733328fcf6c29af9fdb7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/5b768bde23fc61f87d47474bc71d9d0a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/9cf3310eb888bf966b973a96bff34c70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/76fb0280205e0c87ff58cfbbc18c7289/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0e96752ec784ae9586d8c7fbe84e783e/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/3623b6817f0315e3b7785964445b0ae5/AndroidManifest.xml:15:1-21:12
+MERGED from [com.orhanobut:logger:2.2.0] /home/ukie/.gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/dd76173be842ffe479ce23e0cd5258e4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/6b23122dd31dad9d33b0525b5bdd8df1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/0d7373c974ec3f9f02be19851a3c8744/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/4aaeba7087e8de1ce0bafdea737ede77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/d94014ed7194dae4857e903dddb566c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/bfdb5d007afea2e74b7c85115e9bd66f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/0b63ceb6200e5ec924d604bb7a1dbb1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/a5aff83bcdb86c93ea2ccdc260ffe5ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/ef259719249cfc562ead1a7b978f3ce2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/128c4373215709b1453f516fb7131774/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/77a38efd40574a3b34d8d1d1a27ea3a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/58c3a0fed27c86fec7890f48702ae912/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/8822ed7cd0fa3277b3eb8e62ee08588b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/386499cf3d7af68f830778a83041b6f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/5b859d7b1f6e7c2a308554839968222d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f32cae7fb90924377260f642a79e9452/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/09c019a08fdaed0870bd0c3fd77afd0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/65f29a072053268c19485dba99e75c7d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/b9411d47eb25097c321de707e80fc5cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/1559ec374e53ea0463db67b04c59ab6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d8cc325a7953933b1905fb8a5328a891/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e911046ea16ee378361c5f011a43573d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a4ae171782c8cc8726b883044c731d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/60f98a53d9d167b4d91b0fda3e75e24f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/ukie/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/b16e5b9f8219665db2ea0631aa3ca693/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/0a1b347aee10ab38d551e72ec8bcc90d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/f6f5b90180c46125b0ad5a206f0f0033/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/d7e7726b509712239bcf7d1edb70aa6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fa14f6061c9bf329f2b94f42ea46a853/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:design:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/5b768bde23fc61f87d47474bc71d9d0a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/5b768bde23fc61f87d47474bc71d9d0a/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0e96752ec784ae9586d8c7fbe84e783e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0e96752ec784ae9586d8c7fbe84e783e/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f32cae7fb90924377260f642a79e9452/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f32cae7fb90924377260f642a79e9452/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/65f29a072053268c19485dba99e75c7d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/65f29a072053268c19485dba99e75c7d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f32cae7fb90924377260f642a79e9452/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:8:9-38
+activity#com.tuxdev.booksaac.ui.books.BooksActivity
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:15:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.tuxdev.booksaac.ui.books.BooksDetailActivity
+ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:22:9-75
+	android:name
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml:22:19-63
+uses-sdk
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.4] /home/ukie/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/0abc3586ff7b555d8f7992e2114b598c/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] /home/ukie/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/0abc3586ff7b555d8f7992e2114b598c/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /home/ukie/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/adb494fedb96733328fcf6c29af9fdb7/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /home/ukie/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/adb494fedb96733328fcf6c29af9fdb7/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/5b768bde23fc61f87d47474bc71d9d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/5b768bde23fc61f87d47474bc71d9d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/9cf3310eb888bf966b973a96bff34c70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/9cf3310eb888bf966b973a96bff34c70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/76fb0280205e0c87ff58cfbbc18c7289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/76fb0280205e0c87ff58cfbbc18c7289/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0e96752ec784ae9586d8c7fbe84e783e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/0e96752ec784ae9586d8c7fbe84e783e/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/3623b6817f0315e3b7785964445b0ae5/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/ukie/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/3623b6817f0315e3b7785964445b0ae5/AndroidManifest.xml:19:5-43
+MERGED from [com.orhanobut:logger:2.2.0] /home/ukie/.gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/dd76173be842ffe479ce23e0cd5258e4/AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:2.2.0] /home/ukie/.gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/dd76173be842ffe479ce23e0cd5258e4/AndroidManifest.xml:6:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/6b23122dd31dad9d33b0525b5bdd8df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/6b23122dd31dad9d33b0525b5bdd8df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/0d7373c974ec3f9f02be19851a3c8744/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/0d7373c974ec3f9f02be19851a3c8744/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/4aaeba7087e8de1ce0bafdea737ede77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/4aaeba7087e8de1ce0bafdea737ede77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/d94014ed7194dae4857e903dddb566c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/d94014ed7194dae4857e903dddb566c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/bfdb5d007afea2e74b7c85115e9bd66f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/bfdb5d007afea2e74b7c85115e9bd66f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/0b63ceb6200e5ec924d604bb7a1dbb1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/0b63ceb6200e5ec924d604bb7a1dbb1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/a5aff83bcdb86c93ea2ccdc260ffe5ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/a5aff83bcdb86c93ea2ccdc260ffe5ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/ef259719249cfc562ead1a7b978f3ce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/ef259719249cfc562ead1a7b978f3ce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/128c4373215709b1453f516fb7131774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/128c4373215709b1453f516fb7131774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/77a38efd40574a3b34d8d1d1a27ea3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/77a38efd40574a3b34d8d1d1a27ea3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/58c3a0fed27c86fec7890f48702ae912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/58c3a0fed27c86fec7890f48702ae912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/8822ed7cd0fa3277b3eb8e62ee08588b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/8822ed7cd0fa3277b3eb8e62ee08588b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/386499cf3d7af68f830778a83041b6f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/386499cf3d7af68f830778a83041b6f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/5b859d7b1f6e7c2a308554839968222d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/5b859d7b1f6e7c2a308554839968222d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f32cae7fb90924377260f642a79e9452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f32cae7fb90924377260f642a79e9452/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/09c019a08fdaed0870bd0c3fd77afd0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/09c019a08fdaed0870bd0c3fd77afd0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/65f29a072053268c19485dba99e75c7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/65f29a072053268c19485dba99e75c7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/b9411d47eb25097c321de707e80fc5cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/b9411d47eb25097c321de707e80fc5cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/1559ec374e53ea0463db67b04c59ab6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/1559ec374e53ea0463db67b04c59ab6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d8cc325a7953933b1905fb8a5328a891/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d8cc325a7953933b1905fb8a5328a891/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e911046ea16ee378361c5f011a43573d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e911046ea16ee378361c5f011a43573d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a4ae171782c8cc8726b883044c731d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a4ae171782c8cc8726b883044c731d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/60f98a53d9d167b4d91b0fda3e75e24f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/60f98a53d9d167b4d91b0fda3e75e24f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/ukie/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/b16e5b9f8219665db2ea0631aa3ca693/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/ukie/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/b16e5b9f8219665db2ea0631aa3ca693/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/0a1b347aee10ab38d551e72ec8bcc90d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/0a1b347aee10ab38d551e72ec8bcc90d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/f6f5b90180c46125b0ad5a206f0f0033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/f6f5b90180c46125b0ad5a206f0f0033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/d7e7726b509712239bcf7d1edb70aa6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/d7e7726b509712239bcf7d1edb70aa6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fa14f6061c9bf329f2b94f42ea46a853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/ukie/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fa14f6061c9bf329f2b94f42ea46a853/AndroidManifest.xml:20:5-44
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+		ADDED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ukie/WorkSpace/BooksAAC/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/ukie/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d5c5b845563dce35f2a30f12ac005a55/AndroidManifest.xml:24:13-83
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ukie/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b2d40f3154204c62cc0033c7bbbf1db4/AndroidManifest.xml:9:13-64

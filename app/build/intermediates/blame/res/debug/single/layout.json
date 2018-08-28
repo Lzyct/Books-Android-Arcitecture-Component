@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ukie/WorkSpace/BooksAAC/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_books_details.xml",
+        "source": "/home/ukie/WorkSpace/BooksAAC/app/src/main/res/layout/activity_books_details.xml"
+    },
+    {
+        "merged": "/home/ukie/WorkSpace/BooksAAC/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_books.xml",
+        "source": "/home/ukie/WorkSpace/BooksAAC/app/src/main/res/layout/activity_books.xml"
+    },
+    {
+        "merged": "/home/ukie/WorkSpace/BooksAAC/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_books_item.xml",
+        "source": "/home/ukie/WorkSpace/BooksAAC/app/src/main/res/layout/activity_books_item.xml"
+    }
+]
